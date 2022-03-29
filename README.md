@@ -5,7 +5,7 @@
 - Jeremy KEENER
 
 ## Description
-Please describe the idea of the project and what is the goal.
+Our bot is used for music. The goal is to provide many informations about an artist or a song but also to help find the right artist or the right name. The bot can also advice the user and give recommendations based on the user preferences.
 ## Bot Info
 - Chatbot platform: Discord
 - [Chat with bot](https://discord.gg/v9BhfnGK) (open on new tab)
